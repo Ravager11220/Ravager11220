@@ -1,6 +1,6 @@
 # Hi, I'm Ravager 
 
-I am a Computer Science undergraduate focused on systems-level programming, network architecture, and security primitives. I like building tools that look under the hood of how software interacts with hardware and networks. I also practice OPSEC like a lifestyle. Im obsessed with delving into the deepest layer of everything and get full clarity on the subject.(This sometimes leads to unconventional hobbies lmao)
+I am a Computer Science undergraduate. I like to build,break and build again. I also practice OPSEC like a lifestyle. Im *OBSESSED* with delving into the deepest layer of everything.
 
 ## Current Focus Areas
 - **Low-Level Networking:** Building custom packet analysis tools and transport layer abstractions.
