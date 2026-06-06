@@ -1,6 +1,6 @@
 # Hi, I'm Ravager 
 
-I am a Computer Science undergraduate focused on systems-level programming, network architecture, and security primitives. I like building tools that look under the hood of how software interacts with hardware and networks. I also practice OPSEC like a lifestyle. I like to delve into the deepest layer of everything and get full clarity on the subject.(This sometimes leads to unconventional hobbies)
+I am a Computer Science undergraduate focused on systems-level programming, network architecture, and security primitives. I like building tools that look under the hood of how software interacts with hardware and networks. I also practice OPSEC like a lifestyle. Im obsessed with delving into the deepest layer of everything and get full clarity on the subject.(This sometimes leads to unconventional hobbies lmao)
 
 ## Current Focus Areas
 - **Low-Level Networking:** Building custom packet analysis tools and transport layer abstractions.
@@ -20,8 +20,8 @@ I am a Computer Science undergraduate focused on systems-level programming, netw
 - **Distributed Infrastructure Startup (BENZENE):** Designing decentralized resource allocation models for high-compute environments.
 
 ## Let's Connect
-- **Email:** [rishisingh0137@example.com]
-- **LinkedIn:** [https://www.linkedin.com/in/rishi-singh-901037407/]
+- **Email:** [rishisingh0137@example.com](mailto:rishisingh0137@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/rishi-singh-901037407/](https://www.linkedin.com/in/rishi-singh-901037407/)
 
 <!--
 **Ravager11220/Ravager11220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
