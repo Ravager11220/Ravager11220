@@ -1,4 +1,4 @@
-<!--# Hi, I'm Ravager 
+# Hi, I'm Ravager 
 
 I am a CSE undergrad. I like to build,break and build again. I also practice OPSEC like a lifestyle. Im *OBSESSED* with delving into the deepest layer of everything.
 #
@@ -22,9 +22,6 @@ I am a CSE undergrad. I like to build,break and build again. I also practice OPS
 - **Custom Network Scanner:** Developing a multi-threaded TCP port utility in native C++ sockets to understand low-level handshake mechanics.
 - **Distributed Infrastructure Startup (BENZENE):** Designing decentralized resource allocation models for high-compute environments.
 
-<!--## Let's Connect
-- **Email:** [rishisingh0137@example.com](mailto:rishisingh0137@example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/rishi-singh-901037407/](https://www.linkedin.com/in/rishi-singh-901037407/)-->
 
 <!--
 **Ravager11220/Ravager11220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
