@@ -1,4 +1,4 @@
-# Hi, I'm Ravager 
+<!--# Hi, I'm Ravager 
 
 I am a CSE undergrad. I like to build,break and build again. I also practice OPSEC like a lifestyle. Im *OBSESSED* with delving into the deepest layer of everything.
 #
